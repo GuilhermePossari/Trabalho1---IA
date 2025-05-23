@@ -1,0 +1,1145 @@
+{
+    "Curitiba": {
+        "Araucária": 2.5651095884119366,
+        "Almirante Tamandaré": 12.280566276232676,
+        "São José dos Pinhais": 13.418667928196369,
+        "Colombo": 16.039854332620013,
+        "Campo Magro": 19.274876131415777
+    },
+    "Londrina": {
+        "Ibiporã": 11.896598115972372,
+        "Cambé": 12.345506406293705,
+        "Jataìzinho": 19.68579195179908,
+        "Rolândia": 20.85252179376235
+    },
+    "Maringá": {
+        "Paiçandu": 14.173056307478639,
+        "Mandaguaçu": 18.552734330041314
+    },
+    "Ponta Grossa": {
+        "Carambeí": 19.955819793755992,
+        "Castro": 37.35468069678446
+    },
+    "Cascavel": {
+        "Santa Teresa": 20.84756080793637,
+        "Corbélia": 23.340671440986622
+    },
+    "São José dos Pinhais": {
+        "Curitiba": 13.418667928196369,
+        "Araucária": 13.882509383731772
+    },
+    "Foz do Iguaçu": {
+        "São Miguel do Iguaçu": 47.23968059654776,
+        "Medianeira": 56.56553689408008,
+        "Matelândia": 68.72679030838974
+    },
+    "Colombo": {
+        "Almirante Tamandaré": 9.40506950619972,
+        "Araucária": 14.122798566632987,
+        "Bocaiúva do Sul": 15.12828842105542,
+        "Rio Branco do Sul": 15.88731669859629,
+        "Curitiba": 16.039854332620013,
+        "Quatro Barras": 16.397105062450137
+    },
+    "Guarapuava": {
+        "Pinhão": 40.637038362477085,
+        "Inácio Martins": 42.68934871907967,
+        "Prudentópolis": 51.11660374843306,
+        "Santa Maria": 64.55933578110907,
+        "Cantagalo": 67.90171142694422,
+        "Cruz Machado": 71.14007289759891
+    },
+    "Araucária": {
+        "Curitiba": 2.5651095884119366,
+        "Almirante Tamandaré": 11.845256744137158,
+        "São José dos Pinhais": 13.882509383731772
+    },
+    "Toledo": {
+        "Marechal Cândido Rondon": 36.60041541010639,
+        "Santa Teresa": 39.187665519813265,
+        "Cascavel": 39.54766914875653,
+        "Cafelândia": 44.03970404587015,
+        "Corbélia": 45.72539759605484
+    },
+    "Paranaguá": {
+        "Pontal do Paraná": 17.435825506563685,
+        "Antonina": 22.751756469900204,
+        "Morretes": 32.9319065819911
+    },
+    "Campo Largo": {
+        "Campo Magro": 12.647448956785016,
+        "Balsa Nova": 18.048053096675932,
+        "Contenda": 24.129023547120443
+    },
+    "Apucarana": {
+        "Cambira": 12.100087895853708,
+        "Arapongas": 15.141726592188483,
+        "Califórnia": 15.42372733652027,
+        "Jandaia do Sul": 20.04322799718049,
+        "Mandaguari": 21.408816842392742
+    },
+    "Almirante Tamandaré": {
+        "Colombo": 9.40506950619972,
+        "Araucária": 11.845256744137158,
+        "Curitiba": 12.280566276232676,
+        "Campo Magro": 14.96745989425158,
+        "Itaperuçu": 15.023423502504501,
+        "Rio Branco do Sul": 17.630890587475644
+    },
+    "Arapongas": {
+        "Rolândia": 14.453084852149734,
+        "Apucarana": 15.141726592188483,
+        "Sabáudia": 18.45254414747272,
+        "Cambé": 21.80965737486877,
+        "Cambira": 24.850109484570886
+    },
+    "Piraquara": {
+        "Quatro Barras": 8.61165920614742,
+        "Campina Grande do Sul": 15.153926386186747
+    },
+    "Umuarama": {
+        "Cruzeiro do Oeste": 26.28619692930166,
+        "Alto Piquiri": 31.398817799955804,
+        "Mariluz": 31.716923177945446,
+        "Moreira Sales": 39.49713093848157,
+        "Tapejara": 46.17034616618391
+    },
+    "Cambé": {
+        "Rolândia": 9.470241243164754,
+        "Londrina": 12.345506406293705,
+        "Arapongas": 21.80965737486877
+    },
+    "Campo Mourão": {
+        "Peabiru": 16.97442805334618,
+        "Araruna": 17.093550105158975,
+        "Engenheiro Beltrão": 29.95775572171521
+    },
+    "Francisco Beltrão": {
+        "Marmeleiro": 7.684152326825284,
+        "Vitorino": 34.183559649409496,
+        "Pato Branco": 41.03343505358366
+    },
+    "Pato Branco": {
+        "Vitorino": 13.469525468118473,
+        "Clevelândia": 27.891222534675585,
+        "Coronel Vivida": 29.53808040859971,
+        "Marmeleiro": 36.61743440015744,
+        "Dois Vizinhos": 41.03343505358366
+    },
+    "Paranavaí": {
+        "Alto Paraná": 10.123282914187943,
+        "Paraíso do Norte": 23.497731417401344,
+        "Nova Esperança": 29.317032203465818,
+        "Paranacity": 37.53602135674099,
+        "Terra Rica": 43.18679445282912
+    },
+    "Cianorte": {
+        "Japurá": 17.564811544863787,
+        "Rondon": 27.204035333981444,
+        "Tapejara": 29.100676897365776,
+        "Araruna": 37.1452004506366,
+        "Engenheiro Beltrão": 40.676113489979045
+    },
+    "Telêmaco Borba": {
+        "Imbaú": 18.014584337539315,
+        "Tibagi": 27.5597048743937,
+        "Ortigueira": 34.682952595711605
+    },
+    "Castro": {
+        "Carambeí": 17.40587091066815,
+        "Piraí do Sul": 29.41699733791755,
+        "Ponta Grossa": 37.35468069678446
+    },
+    "Rolândia": {
+        "Cambé": 9.470241243164754,
+        "Arapongas": 14.453084852149734,
+        "Sabáudia": 18.71982635536219
+    },
+    "Rio Negro": {
+        "Piên": 35.618712649325204,
+        "Lapa": 37.43701085458479,
+        "Quitandinha": 38.68233565998163,
+        "Agudos do Sul": 47.43643637919932,
+        "Contenda": 53.624916145656236
+    },
+    "Irati": {
+        "Rebouças": 15.6413109358127,
+        "Teixeira Soares": 22.530090229698754,
+        "Imbituva": 30.835856351613916,
+        "Rio Azul": 32.49740098725258
+    },
+    "Ibiporã": {
+        "Jataìzinho": 7.8624234239137545,
+        "Londrina": 11.896598115972372,
+        "Cambé": 23.282979252424578,
+        "Assaí": 23.56497553735187,
+        "Sertanópolis": 24.145277909452396,
+        "Uraí": 25.572995786319492
+    },
+    "União da Vitória": {
+        "General Carneiro": 32.98406467866329,
+        "Cruz Machado": 34.693157056807,
+        "Mallet": 45.91060147965178,
+        "Bituruna": 48.551949309645885,
+        "Rio Azul": 61.00136736109917
+    },
+    "Medianeira": {
+        "São Miguel do Iguaçu": 9.536425925739598,
+        "Matelândia": 12.194932128668876
+    },
+    "Marechal Cândido Rondon": {
+        "Toledo": 36.60041541010639,
+        "Palotina": 39.002978590256006
+    },
+    "Palmas": {
+        "Clevelândia": 48.810698468427894,
+        "Bituruna": 55.05646798134796,
+        "Mangueirinha": 61.49187931968261
+    },
+    "Prudentópolis": {
+        "Ivaí": 25.452510067852796,
+        "Imbituva": 39.71497015211026,
+        "Inácio Martins": 41.08289474477609,
+        "Irati": 43.247157322098445,
+        "Ipiranga": 44.87684708639856
+    },
+    "Cornélio Procópio": {
+        "Santa Mariana": 10.392044428243187,
+        "Uraí": 18.58552376397204,
+        "Bandeirantes": 28.97471725138036,
+        "Assaí": 33.00279357216578,
+        "Jataìzinho": 36.296782439112526
+    },
+    "Lapa": {
+        "Contenda": 20.92259455161749,
+        "Balsa Nova": 21.352902503895468,
+        "Quitandinha": 24.58685793958842
+    },
+    "Dois Vizinhos": {
+        "Marmeleiro": 7.684152326825284,
+        "Vitorino": 34.183559649409496,
+        "Pato Branco": 41.03343505358366,
+        "São João": 43.16197413433313,
+        "São Jorge d’Oeste": 44.00991147727788,
+        "Ampère": 46.214148108780186
+    },
+    "Santo Antônio da Platina": {
+        "Jacarèzinho": 17.836931003374882,
+        "Cambará": 24.707506335511283
+    },
+    "São Mateus do Sul": {
+        "São João do Triunfo": 22.79568827087868,
+        "Rebouças": 42.43522875926393,
+        "Mallet": 43.789214248543075,
+        "Rio Azul": 43.897951107045735,
+        "Irati": 51.85153550607432
+    },
+    "Guaratuba": {
+        "Matinhos": 9.84704007817949,
+        "Pontal do Paraná": 41.366933442939605,
+        "Paranaguá": 42.55416855652127
+    },
+    "Marialva": {
+        "Mandaguari": 9.496737177501466,
+        "Jandaia do Sul": 15.674295168825438,
+        "Cambira": 20.109079813086428,
+        "Maringá": 23.31948555672735,
+        "Sabáudia": 24.040979986464098,
+        "Apucarana": 26.12150682687108
+    },
+    "Paiçandu": {
+        "Maringá": 14.173056307478639,
+        "Mandaguaçu": 14.24643598006338,
+        "Floresta": 16.42531815396713
+    },
+    "Jacarèzinho": {
+        "Cambará": 16.69870082648646,
+        "Santo Antônio da Platina": 17.836931003374882,
+        "Ribeirão Claro": 21.890408587806238,
+        "Andirá": 29.269759428697718,
+        "Joaquim Távora": 38.15699550285523,
+        "Carlópolis": 40.749906895570014
+    },
+    "Matinhos": {
+        "Guaratuba": 9.84704007817949,
+        "Pontal do Paraná": 31.793970938547037,
+        "Paranaguá": 32.98969697322064,
+        "Antonina": 46.69153379620577,
+        "Morretes": 48.32783527879328,
+        "Tijucas do Sul": 66.31071382037047
+    },
+    "Campina Grande do Sul": {
+        "Quatro Barras": 7.344801454422384,
+        "Piraquara": 15.153926386186747,
+        "Bocaiúva do Sul": 15.734007363818725,
+        "Colombo": 17.049799310541264,
+        "Araucária": 23.15092880811615,
+        "Curitiba": 25.714394678091868
+    },
+    "Rio Branco do Sul": {
+        "Itaperuçu": 7.6654030655900085,
+        "Colombo": 15.88731669859629,
+        "Bocaiúva do Sul": 16.87675895503424,
+        "Almirante Tamandaré": 17.630890587475644,
+        "Campo Magro": 27.119312012283906
+    },
+    "Mandaguari": {
+        "Jandaia do Sul": 6.1793670762266215,
+        "Marialva": 9.496737177501466
+    },
+    "Jaguariaíva": {
+        "Arapoti": 9.85901284952338,
+        "Sengés": 27.594160126119185,
+        "Piraí do Sul": 39.843389698088345,
+        "Venceslau Brás": 43.103294074067506,
+        "Ventania": 55.03379403820617
+    },
+    "Palotina": {
+        "Terra Roxa d’Oeste": 29.62789511201376,
+        "Iporã": 34.09841310899815
+    },
+    "Palmeira": {
+        "Ponta Grossa": 39.71863515758175,
+        "São João do Triunfo": 42.1745211469619,
+        "Balsa Nova": 43.43500628659619
+    },
+    "Pitanga": {
+        "Santa Maria": 22.70419449479372,
+        "Manuel Ribas": 28.40925581396933,
+        "Palmital": 47.09681281664891,
+        "Cândido de Abreu": 47.31395521631104
+    },
+    "Ivaiporã": {
+        "Jardim Alegre": 11.62111225807236,
+        "Iretama": 28.955893086455568,
+        "Manuel Ribas": 30.705729692082137
+    },
+    "Laranjeiras do Sul": {
+        "Nova Laranjeiras": 17.483004575546207,
+        "Cantagalo": 29.60601934445926,
+        "Candói": 40.75410543365398
+    },
+    "Guaíra": {
+        "Terra Roxa d’Oeste": 18.253224984291094,
+        "Altônia": 39.651685580625106,
+        "Palotina": 47.88073975578047,
+        "Iporã": 56.69848444546806,
+        "Marechal Cândido Rondon": 57.41036880730814,
+        "Alto Piquiri": 80.43646316656768
+    },
+    "Mandaguaçu": {
+        "Paiçandu": 14.24643598006338,
+        "Maringá": 18.552734330041314,
+        "Nova Esperança": 20.749655189801842,
+        "Floresta": 29.534514131925334,
+        "Alto Paraná": 40.14477427017381
+    },
+    "Bandeirantes": {
+        "Andirá": 15.659503038432216,
+        "Santa Mariana": 19.15473507645569,
+        "Cornélio Procópio": 28.97471725138036,
+        "Cambará": 30.900819672225506,
+        "Santo Antônio da Platina": 32.447718899070274,
+        "Ribeirão do Pinhal": 32.98208856385373
+    },
+    "Itaperuçu": {
+        "Rio Branco do Sul": 7.6654030655900085,
+        "Almirante Tamandaré": 15.023423502504501,
+        "Colombo": 17.626450122524087
+    },
+    "Pontal do Paraná": {
+        "Paranaguá": 17.435825506563685,
+        "Matinhos": 31.793970938547037,
+        "Antonina": 40.17293826468674,
+        "Guaratuba": 41.366933442939605,
+        "Morretes": 49.974142586719836,
+        "Piraquara": 73.23877681073374
+    },
+    "Imbituva": {
+        "Ipiranga": 19.581546816083936,
+        "Teixeira Soares": 22.357033796888555,
+        "Irati": 30.835856351613916,
+        "Ivaí": 34.82352012822334
+    },
+    "Pinhão": {
+        "Guarapuava": 40.637038362477085,
+        "Cruz Machado": 47.28061127416019,
+        "Candói": 52.48091020112755,
+        "Bituruna": 53.186484443889476
+    },
+    "Campo Magro": {
+        "Campo Largo": 12.647448956785016,
+        "Almirante Tamandaré": 14.96745989425158,
+        "Curitiba": 19.274876131415777,
+        "Itaperuçu": 20.596545265508578,
+        "Araucária": 20.859376028634273
+    },
+    "São Miguel do Iguaçu": {
+        "Medianeira": 9.536425925739598,
+        "Matelândia": 21.53068767543838
+    },
+    "Ibaiti": {
+        "Curiúva": 36.3814456955935,
+        "Venceslau Brás": 37.281868339200855,
+        "Siqueira Campos": 37.48216405494553
+    },
+    "Goio-Erê": {
+        "Moreira Sales": 18.849304797965072,
+        "Mariluz": 25.536700795493324,
+        "Cruzeiro do Oeste": 46.68051412555585
+    },
+    "Mandirituba": {
+        "Quitandinha": 19.186891467330693,
+        "Agudos do Sul": 22.239016046706613,
+        "Tijucas do Sul": 22.438256947080127,
+        "Contenda": 23.475564760751197
+    },
+    "Nova Esperança": {
+        "Alto Paraná": 19.96297524801278,
+        "Mandaguaçu": 20.749655189801842
+    },
+    "Arapoti": {
+        "Jaguariaíva": 9.85901284952338,
+        "Sengés": 20.034149012541203,
+        "Venceslau Brás": 35.37082727714235
+    },
+    "Santa Helena": {
+        "Marechal Cândido Rondon": 42.262490158466015,
+        "Medianeira": 54.02353111621803,
+        "Matelândia": 55.85744784791547,
+        "São Miguel do Iguaçu": 56.99467428271907,
+        "Céu Azul": 58.27267955416317,
+        "Toledo": 61.73682088316369
+    },
+    "Astorga": {
+        "Sabáudia": 13.991666806016921,
+        "Jaguapitã": 17.515281613133578,
+        "Santa Fé": 25.93740011779295,
+        "Marialva": 26.24182970472376
+    },
+    "Reserva": {
+        "Imbaú": 24.545405511007534,
+        "Ivaí": 40.12751135032014,
+        "Telêmaco Borba": 40.9128641807403,
+        "Tibagi": 48.54163748073662
+    },
+    "Ortigueira": {
+        "Imbaú": 31.491326417721258,
+        "Telêmaco Borba": 34.682952595711605,
+        "Faxinal": 46.54427046296962,
+        "Reserva": 50.48063520235638,
+        "Curiúva": 50.862982194415984,
+        "Tamarana": 56.13268977169936
+    },
+    "Quatro Barras": {
+        "Campina Grande do Sul": 7.344801454422384,
+        "Piraquara": 8.61165920614742,
+        "Colombo": 16.397105062450137,
+        "Araucária": 17.64440479623436,
+        "Curitiba": 20.12285025737977,
+        "Bocaiúva do Sul": 21.0037507667332
+    },
+    "Cruzeiro do Oeste": {
+        "Tapejara": 20.091595035516313,
+        "Umuarama": 26.28619692930166,
+        "Moreira Sales": 27.850570374969813,
+        "Mariluz": 33.33671546756988,
+        "Cidade Gaúcha": 44.76901650607328
+    },
+    "Santo Antônio do Sudoeste": {
+        "Barracão": 23.106327847307075,
+        "Ampère": 31.023417722520524
+    },
+    "Piraí do Sul": {
+        "Castro": 29.41699733791755,
+        "Jaguariaíva": 39.843389698088345,
+        "Ventania": 44.487628152839335
+    },
+    "Coronel Vivida": {
+        "Chopinzinho": 14.590912624044448,
+        "São João": 22.119687900673167,
+        "Pato Branco": 29.53808040859971
+    },
+    "Carambeí": {
+        "Castro": 17.40587091066815,
+        "Ponta Grossa": 19.955819793755992,
+        "Piraí do Sul": 46.659937220105405
+    },
+    "Loanda": {
+        "Santa Isabel do Ivaí": 10.075879560947197,
+        "Santa Cruz do Monte Castelo": 16.336999252366493
+    },
+    "Cambará": {
+        "Andirá": 15.869178580572571,
+        "Jacarèzinho": 16.69870082648646,
+        "Santo Antônio da Platina": 24.707506335511283
+    },
+    "Colorado": {
+        "Paranacity": 19.427789024915334,
+        "Santa Fé": 28.104001067472247
+    },
+    "Siqueira Campos": {
+        "Venceslau Brás": 20.813073123112414,
+        "Joaquim Távora": 22.334813572376017
+    },
+    "Jandaia do Sul": {
+        "Mandaguari": 6.1793670762266215,
+        "Cambira": 8.487855649002352,
+        "Marialva": 15.674295168825438
+    },
+    "Chopinzinho": {
+        "Coronel Vivida": 14.590912624044448,
+        "São João": 22.65248246864911,
+        "Candói": 35.002841892030496
+    },
+    "Capanema": {
+        "Realeza": 30.160853672262633,
+        "Ampère": 43.162096696102054,
+        "Santo Antônio do Sudoeste": 44.546684816842216,
+        "Matelândia": 50.074059915169045,
+        "São Miguel do Iguaçu": 50.699780755419724,
+        "Medianeira": 50.74227451894383
+    },
+    "Tibagi": {
+        "Telêmaco Borba": 27.5597048743937,
+        "Ventania": 32.441726071010834,
+        "Imbaú": 37.02348029139061
+    },
+    "Andirá": {
+        "Bandeirantes": 15.659503038432216,
+        "Cambará": 15.869178580572571,
+        "Santo Antônio da Platina": 27.386093570431647,
+        "Jacarèzinho": 29.269759428697718,
+        "Santa Mariana": 34.64479693389111,
+        "Ribeirão do Pinhal": 39.50316718052727
+    },
+    "Ampère": {
+        "Realeza": 17.33515367053535,
+        "Santo Antônio do Sudoeste": 31.023417722520524,
+        "Barracão": 40.93184439160275,
+        "Capanema": 43.162096696102054,
+        "Dois Vizinhos": 46.214148108780186
+    },
+    "Realeza": {
+        "Ampère": 17.33515367053535,
+        "Capanema": 30.160853672262633,
+        "Santo Antônio do Sudoeste": 39.20993891018383,
+        "Barracão": 55.1764027283975,
+        "Dois Vizinhos": 59.26498177608562
+    },
+    "Venceslau Brás": {
+        "Siqueira Campos": 20.813073123112414,
+        "Arapoti": 35.37082727714235,
+        "Ibaiti": 37.281868339200855,
+        "Sengés": 41.05657663754709,
+        "Joaquim Távora": 42.97716829305409,
+        "Jaguariaíva": 43.103294074067506
+    },
+    "Contenda": {
+        "Balsa Nova": 11.75248172888221,
+        "Lapa": 20.92259455161749,
+        "Quitandinha": 22.121228601747244,
+        "Mandirituba": 23.475564760751197,
+        "Campo Largo": 24.129023547120443
+    },
+    "Cafelândia": {
+        "Corbélia": 20.360225223460336,
+        "Cascavel": 39.967991277071235,
+        "Toledo": 44.03970404587015,
+        "Goio-Erê": 56.49365051172431,
+        "Santa Teresa": 57.67434735985862,
+        "Campina da Lagoa": 61.467066230163226
+    },
+    "Altônia": {
+        "Iporã": 21.371321391762642,
+        "Terra Roxa d’Oeste": 31.905425419968537,
+        "Palotina": 39.396563363310435,
+        "Guaíra": 39.651685580625106,
+        "Alto Piquiri": 44.990051223263386
+    },
+    "Matelândia": {
+        "Medianeira": 12.194932128668876,
+        "Céu Azul": 17.728090827822992,
+        "São Miguel do Iguaçu": 21.53068767543838,
+        "Santa Teresa": 41.59102370704544,
+        "Capanema": 50.074059915169045
+    },
+    "Quitandinha": {
+        "Mandirituba": 19.186891467330693,
+        "Agudos do Sul": 20.592706090013255,
+        "Contenda": 22.121228601747244,
+        "Lapa": 24.58685793958842
+    },
+    "Morretes": {
+        "Antonina": 13.361421574483122,
+        "Piraquara": 23.308068668935643,
+        "Quatro Barras": 27.883606649622774
+    },
+    "Terra Roxa d’Oeste": {
+        "Guaíra": 18.253224984291094,
+        "Palotina": 29.62789511201376,
+        "Altônia": 31.905425419968537,
+        "Iporã": 43.42082002504006,
+        "Marechal Cândido Rondon": 45.67030991666692,
+        "Alto Piquiri": 65.84559178412667
+    },
+    "Antonina": {
+        "Morretes": 13.361421574483122,
+        "Paranaguá": 22.751756469900204,
+        "Piraquara": 35.26593683575818,
+        "Campina Grande do Sul": 37.0906437307035
+    },
+    "Tijucas do Sul": {
+        "Agudos do Sul": 15.993967463533721,
+        "Mandirituba": 22.438256947080127,
+        "Piên": 31.107590182869227,
+        "Quitandinha": 32.189961838549195,
+        "São José dos Pinhais": 44.34630656894731,
+        "Contenda": 45.38073144295955
+    },
+    "Corbélia": {
+        "Cafelândia": 20.360225223460336,
+        "Cascavel": 23.340671440986622,
+        "Santa Teresa": 43.71211664977171,
+        "Toledo": 45.72539759605484
+    },
+    "Sengés": {
+        "Arapoti": 20.034149012541203,
+        "Jaguariaíva": 27.594160126119185,
+        "Venceslau Brás": 41.05657663754709
+    },
+    "Carlópolis": {
+        "Joaquim Távora": 24.39183565081842,
+        "Ribeirão Claro": 25.916168524476042,
+        "Siqueira Campos": 33.93757775643219,
+        "Jacarèzinho": 40.749906895570014,
+        "Santo Antônio da Platina": 45.69561597238094
+    },
+    "Mangueirinha": {
+        "Candói": 26.155016207510823,
+        "Chopinzinho": 36.73267035085339,
+        "Coronel Vivida": 41.70171482483785,
+        "Pinhão": 56.60697157464835,
+        "Clevelândia": 59.00966630915217
+    },
+    "Faxinal": {
+        "Marilândia do Sul": 27.889744665386516,
+        "Tamarana": 38.344122767866885,
+        "Califórnia": 39.16936373536662
+    },
+    "Cêrro Azul": {
+        "Rio Branco do Sul": 38.32185096714691,
+        "Bocaiúva do Sul": 41.97821011450462
+    },
+    "Cruz Machado": {
+        "Bituruna": 27.322215371503052,
+        "União da Vitória": 34.693157056807,
+        "General Carneiro": 45.83942004105375,
+        "Pinhão": 47.28061127416019
+    },
+    "Sertanópolis": {
+        "Bela Vista do Paraíso": 18.60103893939836,
+        "Jataìzinho": 21.517116549020475,
+        "Ibiporã": 24.145277909452396
+    },
+    "Marmeleiro": {
+        "Francisco Beltrão": 7.684152326825284,
+        "Dois Vizinhos": 7.684152326825284,
+        "Vitorino": 28.01648826860422,
+        "Pato Branco": 36.61743440015744,
+        "São João": 46.67709184015357,
+        "Coronel Vivida": 50.13621899596492
+    },
+    "Tapejara": {
+        "Cruzeiro do Oeste": 20.091595035516313,
+        "Cianorte": 29.100676897365776,
+        "Moreira Sales": 36.348249495750196
+    },
+    "Iporã": {
+        "Altônia": 21.371321391762642,
+        "Alto Piquiri": 24.14289003744215,
+        "Palotina": 34.09841310899815,
+        "Terra Roxa d’Oeste": 43.42082002504006,
+        "Umuarama": 46.6752194708261
+    },
+    "Campina da Lagoa": {
+        "Mamborê": 33.42967824618379,
+        "Roncador": 45.04962104443316,
+        "Goio-Erê": 51.38277118458223,
+        "Cafelândia": 61.467066230163226,
+        "Guaraniaçu": 63.00294348860735
+    },
+    "Bituruna": {
+        "Cruz Machado": 27.322215371503052,
+        "General Carneiro": 38.32090419323745,
+        "União da Vitória": 48.551949309645885,
+        "Pinhão": 53.186484443889476,
+        "Palmas": 55.05646798134796
+    },
+    "Jaguapitã": {
+        "Astorga": 17.515281613133578,
+        "Sabáudia": 20.382058206806573,
+        "Santa Fé": 27.521538376788897
+    },
+    "Clevelândia": {
+        "Pato Branco": 27.891222534675585,
+        "Vitorino": 33.88705625327332
+    },
+    "Candói": {
+        "Mangueirinha": 26.155016207510823,
+        "Chopinzinho": 35.002841892030496,
+        "Cantagalo": 38.5517150007547,
+        "Laranjeiras do Sul": 40.75410543365398
+    },
+    "Terra Rica": {
+        "Nova Londrina": 37.78937937511801,
+        "Paranavaí": 43.18679445282912,
+        "Alto Paraná": 49.06572943529127,
+        "Paranacity": 53.567514973957415,
+        "Paraíso do Norte": 55.59754011676653,
+        "Loanda": 58.34924265618366
+    },
+    "Bela Vista do Paraíso": {
+        "Sertanópolis": 18.60103893939836,
+        "Alvorada do Sul": 24.156623795317714,
+        "Florestópolis": 25.282020787437038
+    },
+    "Cândido de Abreu": {
+        "Manuel Ribas": 34.65498333397628,
+        "Pitanga": 47.31395521631104
+    },
+    "Rebouças": {
+        "Irati": 15.6413109358127,
+        "Rio Azul": 17.465477437822347,
+        "Mallet": 32.81937210696096,
+        "Teixeira Soares": 35.27611449164992,
+        "São João do Triunfo": 36.66397044135672,
+        "Inácio Martins": 38.92001583023783
+    },
+    "Araruna": {
+        "Peabiru": 16.894370114347737,
+        "Campo Mourão": 17.093550105158975,
+        "Engenheiro Beltrão": 27.48272688521141,
+        "Cianorte": 37.1452004506366
+    },
+    "Imbaú": {
+        "Telêmaco Borba": 18.014584337539315,
+        "Reserva": 24.545405511007534,
+        "Ortigueira": 31.491326417721258,
+        "Tibagi": 37.02348029139061,
+        "Curiúva": 55.57660415242862,
+        "Ventania": 56.96025337689855
+    },
+    "Manuel Ribas": {
+        "Pitanga": 28.40925581396933,
+        "Ivaiporã": 30.705729692082137,
+        "Cândido de Abreu": 34.65498333397628
+    },
+    "Ipiranga": {
+        "Imbituva": 19.581546816083936,
+        "Ivaí": 27.74800709460475,
+        "Teixeira Soares": 40.195819577350676,
+        "Ponta Grossa": 43.68341104788749,
+        "Prudentópolis": 44.87684708639856
+    },
+    "Rio Azul": {
+        "Mallet": 16.31636267298547,
+        "Rebouças": 17.465477437822347,
+        "Irati": 32.49740098725258,
+        "Inácio Martins": 33.61145482781416
+    },
+    "Alto Paraná": {
+        "Paranavaí": 10.123282914187943,
+        "Nova Esperança": 19.96297524801278,
+        "Paranacity": 30.12409776775542,
+        "Paraíso do Norte": 31.03233533137768,
+        "Mandaguaçu": 40.14477427017381,
+        "Japurá": 47.013510382477044
+    },
+    "Assaí": {
+        "Uraí": 19.371535595098177,
+        "Jataìzinho": 19.4126873646899
+    },
+    "Guaraniaçu": {
+        "Catanduvas": 31.366369625198754,
+        "Nova Laranjeiras": 40.246504375459345,
+        "Corbélia": 54.9646269335426,
+        "Laranjeiras do Sul": 57.34132852599899,
+        "Cascavel": 61.43904937523379,
+        "Campina da Lagoa": 63.00294348860735
+    },
+    "São João do Triunfo": {
+        "São Mateus do Sul": 22.79568827087868,
+        "Teixeira Soares": 35.61380251729848,
+        "Rebouças": 36.66397044135672
+    },
+    "Piên": {
+        "Agudos do Sul": 16.376834918471094,
+        "Quitandinha": 26.17013098661463,
+        "Tijucas do Sul": 31.107590182869227,
+        "Rio Negro": 35.618712649325204
+    },
+    "Curiúva": {
+        "Ventania": 31.62864354346562,
+        "Ibaiti": 36.3814456955935
+    },
+    "Mamborê": {
+        "Campo Mourão": 32.125520880757485,
+        "Campina da Lagoa": 33.42967824618379
+    },
+    "Mallet": {
+        "Rio Azul": 16.31636267298547,
+        "Rebouças": 32.81937210696096,
+        "Inácio Martins": 42.82303444933828,
+        "São Mateus do Sul": 43.789214248543075
+    },
+    "Balsa Nova": {
+        "Contenda": 11.75248172888221,
+        "Campo Largo": 18.048053096675932,
+        "Lapa": 21.352902503895468,
+        "Campo Magro": 30.621012858380453,
+        "Quitandinha": 32.495076213814144,
+        "Mandirituba": 34.95477380225505
+    },
+    "Peabiru": {
+        "Engenheiro Beltrão": 13.159108809680168,
+        "Araruna": 16.894370114347737,
+        "Campo Mourão": 16.97442805334618,
+        "Barbosa Ferraz": 34.234255612005235,
+        "Floresta": 42.20671824552837,
+        "Cianorte": 42.7107819976609
+    },
+    "Bocaiúva do Sul": {
+        "Colombo": 15.12828842105542,
+        "Campina Grande do Sul": 15.734007363818725,
+        "Rio Branco do Sul": 16.87675895503424,
+        "Quatro Barras": 21.0037507667332,
+        "Itaperuçu": 23.557823672430693
+    },
+    "Paraíso do Norte": {
+        "Paranavaí": 23.497731417401344,
+        "Rondon": 25.20594343054289,
+        "Japurá": 29.340268030709098,
+        "Alto Paraná": 31.03233533137768,
+        "Cidade Gaúcha": 42.562082890735915
+    },
+    "Ivaí": {
+        "Prudentópolis": 25.452510067852796,
+        "Ipiranga": 27.74800709460475,
+        "Imbituva": 34.82352012822334
+    },
+    "Santa Teresa": {
+        "Cascavel": 20.84756080793637,
+        "Céu Azul": 24.188768211488842,
+        "Toledo": 39.187665519813265
+    },
+    "Ribeirão do Pinhal": {
+        "Santo Antônio da Platina": 25.232632325355166,
+        "Bandeirantes": 32.98208856385373,
+        "Santa Mariana": 37.7476013423796,
+        "Andirá": 39.50316718052727,
+        "Joaquim Távora": 41.76830694485934
+    },
+    "Palmital": {
+        "Roncador": 33.06054164691235,
+        "Santa Maria": 34.66865298982758,
+        "Pitanga": 47.09681281664891,
+        "Cantagalo": 54.05460537240118,
+        "Nova Laranjeiras": 56.193821813619415
+    },
+    "Nova Londrina": {
+        "Loanda": 23.876457645776526,
+        "Santa Isabel do Ivaí": 33.941749083205295
+    },
+    "Engenheiro Beltrão": {
+        "Peabiru": 13.159108809680168,
+        "Araruna": 27.48272688521141
+    },
+    "Ribeirão Claro": {
+        "Jacarèzinho": 21.890408587806238,
+        "Carlópolis": 25.916168524476042,
+        "Santo Antônio da Platina": 35.89084363894769,
+        "Cambará": 36.27880130901524
+    },
+    "Nova Laranjeiras": {
+        "Laranjeiras do Sul": 17.483004575546207,
+        "Guaraniaçu": 40.246504375459345,
+        "Cantagalo": 41.769538713085105
+    },
+    "Jardim Alegre": {
+        "Ivaiporã": 11.62111225807236,
+        "São Pedro do Ivaí": 34.697659747738804,
+        "Barbosa Ferraz": 35.07378580526573,
+        "Iretama": 35.362709361686754,
+        "Manuel Ribas": 40.97578256858607,
+        "Faxinal": 43.55706366452943
+    },
+    "Joaquim Távora": {
+        "Siqueira Campos": 22.334813572376017,
+        "Carlópolis": 24.39183565081842,
+        "Santo Antônio da Platina": 32.599799080981064,
+        "Ribeirão Claro": 37.094842609602594,
+        "Jacarèzinho": 38.15699550285523,
+        "Ribeirão do Pinhal": 41.76830694485934
+    },
+    "São João": {
+        "Coronel Vivida": 22.119687900673167,
+        "Chopinzinho": 22.65248246864911,
+        "São Jorge d’Oeste": 23.596259045918732
+    },
+    "Jataìzinho": {
+        "Ibiporã": 7.8624234239137545,
+        "Uraí": 17.730147701660677,
+        "Assaí": 19.4126873646899
+    },
+    "Porecatu": {
+        "Florestópolis": 12.519746811605277,
+        "Alvorada do Sul": 20.286560369687017
+    },
+    "Cidade Gaúcha": {
+        "Rondon": 26.57313174625747,
+        "Paraíso do Norte": 42.562082890735915,
+        "Tapejara": 43.27056241577409,
+        "Cruzeiro do Oeste": 44.76901650607328,
+        "Japurá": 48.708061757761094
+    },
+    "Florestópolis": {
+        "Porecatu": 12.519746811605277,
+        "Centenário do Sul": 23.4134933487573,
+        "Alvorada do Sul": 24.067519061475057
+    },
+    "Santa Fé": {
+        "Astorga": 25.93740011779295,
+        "Jaguapitã": 27.521538376788897,
+        "Colorado": 28.104001067472247,
+        "Centenário do Sul": 32.727732719666925,
+        "Paranacity": 38.50121016452935
+    },
+    "Roncador": {
+        "Palmital": 33.06054164691235,
+        "Mamborê": 42.62928549229548
+    },
+    "Moreira Sales": {
+        "Mariluz": 17.030711280195167,
+        "Goio-Erê": 18.849304797965072
+    },
+    "Céu Azul": {
+        "Matelândia": 17.728090827822992,
+        "Santa Teresa": 24.188768211488842,
+        "Medianeira": 29.64132617258169,
+        "São Miguel do Iguaçu": 39.13543991584257,
+        "Cascavel": 44.99490589232762,
+        "Toledo": 49.32175504203314
+    },
+    "Santa Mariana": {
+        "Cornélio Procópio": 10.392044428243187,
+        "Bandeirantes": 19.15473507645569
+    },
+    "General Carneiro": {
+        "União da Vitória": 32.98406467866329,
+        "Bituruna": 38.32090419323745
+    },
+    "Cantagalo": {
+        "Laranjeiras do Sul": 29.60601934445926,
+        "Candói": 38.5517150007547,
+        "Nova Laranjeiras": 41.769538713085105,
+        "Palmital": 54.05460537240118
+    },
+    "Centenário do Sul": {
+        "Florestópolis": 23.4134933487573,
+        "Porecatu": 24.870489144240167,
+        "Santa Fé": 32.727732719666925
+    },
+    "São Jerônimo da Serra": {
+        "Tamarana": 37.02132519984732,
+        "Assaí": 39.77915289613205,
+        "Curiúva": 45.487679602437915,
+        "Ribeirão do Pinhal": 56.48609733136675,
+        "Ortigueira": 56.880153025413875
+    },
+    "Barbosa Ferraz": {
+        "Iretama": 24.144361282182818,
+        "São Pedro do Ivaí": 29.872807040375342
+    },
+    "Tamarana": {
+        "Marilândia do Sul": 22.576674676535035,
+        "Califórnia": 27.500165914607436,
+        "São Jerônimo da Serra": 37.02132519984732,
+        "Faxinal": 38.344122767866885,
+        "Apucarana": 41.71221812381589
+    },
+    "Querência do Norte": {
+        "Santa Cruz do Monte Castelo": 16.33166257813039,
+        "Santa Isabel do Ivaí": 24.17796184982885,
+        "Loanda": 32.66865653188362,
+        "Icaraíma": 48.02782201324508
+    },
+    "Iretama": {
+        "Barbosa Ferraz": 24.144361282182818,
+        "Ivaiporã": 28.955893086455568,
+        "Jardim Alegre": 35.362709361686754,
+        "Roncador": 43.13686770315774,
+        "Campo Mourão": 44.2113303199103,
+        "Manuel Ribas": 45.14699635001169
+    },
+    "Floresta": {
+        "Paiçandu": 16.42531815396713,
+        "Maringá": 27.733860445826082,
+        "Engenheiro Beltrão": 29.226271577779215,
+        "Mandaguaçu": 29.534514131925334
+    },
+    "Catanduvas": {
+        "Guaraniaçu": 31.366369625198754,
+        "Cascavel": 40.72719739395897
+    },
+    "Uraí": {
+        "Jataìzinho": 17.730147701660677,
+        "Cornélio Procópio": 18.58552376397204,
+        "Assaí": 19.371535595098177
+    },
+    "Alvorada do Sul": {
+        "Primeiro de Maio": 17.17930910095772,
+        "Porecatu": 20.286560369687017,
+        "Florestópolis": 24.067519061475057,
+        "Bela Vista do Paraíso": 24.156623795317714,
+        "Sertanópolis": 35.05760011808801
+    },
+    "Agudos do Sul": {
+        "Tijucas do Sul": 15.993967463533721,
+        "Piên": 16.376834918471094,
+        "Quitandinha": 20.592706090013255,
+        "Mandirituba": 22.239016046706613,
+        "Contenda": 39.70709944054893,
+        "Lapa": 45.02165711597972
+    },
+    "Primeiro de Maio": {
+        "Alvorada do Sul": 17.17930910095772,
+        "Bela Vista do Paraíso": 29.104955654001824,
+        "Sertanópolis": 29.704410252538512,
+        "Porecatu": 37.45775028628751,
+        "Florestópolis": 39.97520971806271,
+        "Uraí": 48.962837910495985
+    },
+    "Santa Maria": {
+        "Pitanga": 22.70419449479372,
+        "Palmital": 34.66865298982758,
+        "Manuel Ribas": 51.00266686346108
+    },
+    "Mariluz": {
+        "Moreira Sales": 17.030711280195167,
+        "Alto Piquiri": 25.457506656531542,
+        "Goio-Erê": 25.536700795493324,
+        "Umuarama": 31.716923177945446,
+        "Cruzeiro do Oeste": 33.33671546756988,
+        "Tapejara": 48.36418711418969
+    },
+    "Barracão": {
+        "Santo Antônio do Sudoeste": 23.106327847307075,
+        "Ampère": 40.93184439160275
+    },
+    "Alto Piquiri": {
+        "Iporã": 24.14289003744215,
+        "Mariluz": 25.457506656531542
+    },
+    "Vitorino": {
+        "Pato Branco": 13.469525468118473,
+        "Marmeleiro": 28.01648826860422,
+        "Clevelândia": 33.88705625327332,
+        "Francisco Beltrão": 34.183559649409496,
+        "Dois Vizinhos": 34.183559649409496,
+        "Coronel Vivida": 40.74276456664257
+    },
+    "Ventania": {
+        "Curiúva": 31.62864354346562,
+        "Tibagi": 32.441726071010834,
+        "Telêmaco Borba": 39.62479496430457,
+        "Piraí do Sul": 44.487628152839335
+    },
+    "Inácio Martins": {
+        "Rio Azul": 33.61145482781416,
+        "Rebouças": 38.92001583023783
+    },
+    "Paranacity": {
+        "Colorado": 19.427789024915334,
+        "Alto Paraná": 30.12409776775542,
+        "Nova Esperança": 32.066004212793466,
+        "Paranavaí": 37.53602135674099,
+        "Santa Fé": 38.50121016452935,
+        "Mandaguaçu": 48.66128551302591
+    },
+    "Teixeira Soares": {
+        "Imbituva": 22.357033796888555,
+        "Irati": 22.530090229698754,
+        "Rebouças": 35.27611449164992,
+        "São João do Triunfo": 35.61380251729848,
+        "Ipiranga": 40.195819577350676
+    },
+    "Cambira": {
+        "Jandaia do Sul": 8.487855649002352,
+        "Mandaguari": 12.093379961778423,
+        "Apucarana": 12.100087895853708,
+        "Marialva": 20.109079813086428,
+        "Califórnia": 22.272156271261014,
+        "Arapongas": 24.850109484570886
+    },
+    "São Jorge d’Oeste": {
+        "São João": 23.596259045918732,
+        "Francisco Beltrão": 44.00991147727788,
+        "Dois Vizinhos": 44.00991147727788,
+        "Chopinzinho": 44.80173297832618,
+        "Coronel Vivida": 45.566616305608875
+    },
+    "Japurá": {
+        "Cianorte": 17.564811544863787,
+        "Rondon": 22.21746126446883,
+        "Paraíso do Norte": 29.340268030709098,
+        "Tapejara": 43.78448378050658
+    },
+    "Rondon": {
+        "Japurá": 22.21746126446883,
+        "Paraíso do Norte": 25.20594343054289,
+        "Cidade Gaúcha": 26.57313174625747
+    },
+    "Icaraíma": {
+        "Querência do Norte": 48.02782201324508,
+        "Umuarama": 56.05707752281272
+    },
+    "Santa Isabel do Ivaí": {
+        "Santa Cruz do Monte Castelo": 8.738669423671402,
+        "Loanda": 10.075879560947197,
+        "Querência do Norte": 24.17796184982885,
+        "Nova Londrina": 33.941749083205295,
+        "Cidade Gaúcha": 49.68494344581094,
+        "Icaraíma": 65.28317927624528
+    },
+    "Sabáudia": {
+        "Astorga": 13.991666806016921,
+        "Arapongas": 18.45254414747272,
+        "Rolândia": 18.71982635536219,
+        "Jaguapitã": 20.382058206806573,
+        "Marialva": 24.040979986464098,
+        "Cambé": 27.931340814388108
+    },
+    "Califórnia": {
+        "Marilândia do Sul": 11.783476383424649,
+        "Apucarana": 15.42372733652027,
+        "Cambira": 22.272156271261014
+    },
+    "São Pedro do Ivaí": {
+        "Barbosa Ferraz": 29.872807040375342,
+        "Jardim Alegre": 34.697659747738804
+    },
+    "Marilândia do Sul": {
+        "Califórnia": 11.783476383424649,
+        "Tamarana": 22.576674676535035,
+        "Apucarana": 26.571631480095487,
+        "Faxinal": 27.889744665386516,
+        "Cambira": 30.436264735588836
+    },
+    "Santa Cruz do Monte Castelo": {
+        "Santa Isabel do Ivaí": 8.738669423671402,
+        "Querência do Norte": 16.33166257813039,
+        "Loanda": 16.336999252366493,
+        "Nova Londrina": 39.3408160372562
+    }
+}
