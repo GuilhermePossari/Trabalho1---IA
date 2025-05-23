@@ -6,7 +6,7 @@ with open("grafo.json", "r", encoding="utf-8") as file:
 
 def busca_custo_uniforme(grafo, inicio, objetivo):
     fila = []
-    heapq.heappush(fila, (0, inicio, [inicio]))  # (custo, cidade atual, caminho)
+    heapq.heappush(fila, (0, inicio, [inicio]))  
 
     visitados = set()
 
@@ -33,7 +33,6 @@ casos_teste = [
     ("Londrina", "Foz do Iguaçu"),
     ("Primeiro de Maio", "Curitiba")
 ]
-
 if __name__ == "__main__":
     for origem, destino in casos_teste:
         caminho, custo = busca_custo_uniforme(grafo, origem, destino)
